@@ -1,0 +1,258 @@
+Title: Being Cited, Not Just Found: The New Rules of AI
+
+URL Source: https://lucadicesare.substack.com/p/being-cited-not-just-found-the-new
+
+Published Time: 2025-09-28T08:28:33+00:00
+
+Markdown Content:
+**TL;DR**
+
+*   Organic traffic from search engines is collapsing: **AI summaries** have changed the rules.
+
+*   Publishers are reacting in four ways: **lawsuits, licensing deals, blocking, regulation** (plus the new **Pay per Crawl**model).
+
+*   **Retail and ecommerce can’t wait**: the challenge is no longer being found, but being **cited**.
+
+*   **GEO (Generative Engine Optimization)** is the new playing field: content designed to be **read, interpreted, and cited** by AI.
+
+*   The risk? **Invisibility**.
+
+I’ve worked in digital advertising for 25 years and I can safely say I’ve never been bored: every year new technologies, new metrics, and new players keep our sector one of the most interesting around.
+
+The latest big shift I’ve noticed? Here it is:
+
+“**Ask ChatGPT**” has dethroned “**you’re on mute**” as the most-used phrase in meetings.
+
+About a year and a half ago I started digging into the trend of the moment, **GEO**, an acronym that’s not the most evocative and stands for **Generative Engine Optimization**, which **Google AI Overviews** defines as:
+
+“a new methodology for optimizing digital content focused on its visibility within generative AI–based search engines, such as ChatGPT, Gemini or Google AI Overviews.”
+
+· Until not long ago, people talked about it almost exclusively on very specialized, very nerdy blogs and forums, then more and more in the trade press worldwide. That’s why I was surprised when I saw GEO covered in an excellent article recently published by **Il Post,** a leading Italian online-only publication (note: all source links are at the end of the article).
+
+Probably because of its link to AI and LLMs, or perhaps because the Il Post newsroom also noticed some decline in organic traffic from Google, the concept has broken out of the meeting rooms where some of us have discussed it over the past few months and has gone mainstream.
+
+And when something goes mainstream, a bit of confusion tends to follow; so I thought I’d share a few things I’ve learned and some resources for anyone who wants to go deeper.
+
+Here’s my starting point: the way we communicate has undergone a radical, anthropological transformation, driven and amplified by **WhatsApp** which, to its credit, got everyone aligned, but also eroded our ability to hold real conversations.
+
+An example? When we find a restaurant on Google Maps, before calling we always check whether we can book **in-app**. Right?
+
+We don’t call anymore (and if we do, it’s only when it’s really urgent), we message. We don’t email colleagues, we use **Slack**. **Chat is the default**, everything else is the exception.
+
+From there, it becomes very easy to understand why **ChatGPT** has taken off: it faithfully reproduces the way we’re used to communicating, the one format everyone can use, the one that removes the embarrassment of speaking up or writing at length.
+
+Here are ChatGPT’s adoption figures compared with Google’s, impressive, right?
+
+
+
+So today the market is full of solutions that:
+
+*   we can use immediately
+
+*   **speak like we do**
+
+*   adapt to our tone
+
+*   communicate the way we like to communicate
+
+*   provide information that’s **substantially reliable**
+
+*   and have, unsurprisingly, achieved **runaway success**
+
+The first consequences for the media world are in plain sight:
+
+the primary source of traffic that kept the market afloat for **over 20 years** has begun to **drastically** reduce the number of users who, after a search, click through and visit a site.
+
+**Drastically.**
+
+All because of **Google AI Overviews (aka AIO)**, but not only, since the massive user base of various **LLMs** has moved, naturally and with great satisfaction, from **search to conversation**.
+
+In fact, this year in Cannes the most important session in my view was the talk by **Matthew Prince**, CEO of **Cloudflare**, an infrastructure that handles about **20%** of global Internet traffic.
+
+Here’s the gist (the link to the full video is at the end):
+
+**Existential threat for publishers**
+
+*   According to Prince, publishers face an **existential threat** in the AI era: the drop in traffic from search engines and **AI summaries** is putting their business models at risk.
+
+*   They need to act to ensure **fair compensation** for their content.
+
+**Key stats (crawl vs. traffic):**
+
+*   **10 years ago**: Google scanned **2 pages** for every **visitor** sent to a publisher, i.e., “let me access and read your pages, and in exchange I’ll send traffic so you can sustain yourself via ads, sales, or subscriptions.”
+
+**6 months ago, the picture already looked very different:**
+
+*   Google: **6 pages scanned : 1 visitor**
+
+*   OpenAI: **250:1**
+
+*   Anthropic: **6,000:1**
+
+**Today, it’s dramatic:**
+
+*   Google: **18:1**
+
+*   OpenAI: **1,500:1**
+
+*   Anthropic: **60,000:1**
+
+**User behavior:**
+
+*   Even if AI and search show links to sources, **users no longer follow them**.
+
+*   **Direct trust in AI** is growing: people read **summaries**, not the **original article**.
+
+**Consequence:**
+
+*   The future of the web will be increasingly dominated by **AI summaries** rather than **original content**.
+
+*   Without clicks, publishers lose the **advertising model** that sustained them for **20+ years**.
+
+**In short:** organic traffic in freefall; AI that “consumes” content without giving value back; publishers **forced to rethink**their entire monetization model.
+
+Unsurprisingly, Prince already had a solution in mind, visionary in my view, though I still have doubts about whether it will be applicable for everyone: **Pay per Crawl**.
+
+**What is it?**
+
+The publisher is no longer forced into a binary choice, “open to AI bots” or “completely blocked”, but can **require payment** each time an AI bot (**crawler**) accesses its content.
+
+If the bot doesn’t “offer” payment, it receives an **HTTP 402 Payment Required** response, indicating there’s a price to access.
+
+The publisher can set **three modes** for each crawler:
+
+*   **Allow** → free access
+
+*   **Charge** → access only after payment
+
+*   **Block** → no access
+
+**Cloudflare** (of course!) acts as **Merchant of Record**, handling payments, invoicing, and distribution to publishers.
+
+**Why it matters**
+
+*   It offers a **middle ground**: not just block or give content away, but **monetize** AI access to content.
+
+*   It **could change the rules**: AI bots will have to **pay** to access text, articles, protected content.
+
+*   It’s still in **private beta**, but if it takes off it could become a **market standard**: content has value not only when humans read it, but also when it’s **scanned** to generate AI answers.
+
+A new business model that will surely be **copied** by Cloudflare’s competitors, but one that raises questions: will **all** LLMs pay, or will they decide **case by case**? What options remain for those excluded? **Stay out forever**, or give in and open to everyone?
+
+My impression is that, unless very **broad and meaningful alliances** emerge, **many publishers will be left out**.
+
+Let’s take stock.
+
+They take data, use it, present it back to us, thank you and goodbye.
+
+Generally, as we’ve seen many times before, **most didn’t grasp** the impact this revolution would have.
+
+Now that we’re all realizing it, we’re seeing different reactions at different levels; in publishing, I’d say there are mainly **four directions** (plus, obviously, the **Pay per Crawl** option mentioned above, but let’s see how that evolves):
+
+*   **I sue:**
+
+**Penske Media**, publisher of _Rolling Stone_, has sued **Google**, claiming it “conditions” appearance in search results on granting permission to use the same content for its AI systems. In other words: if you don’t consent to use for **AIO**, you risk no longer being **visible**. **Consequence**: a drop of about **one-third** in **affiliate revenue**, attributed to decreased Google traffic.
+
+*   **I sign a deal:**
+
+In **May 2024**, **News Corp** signed a **$250M over five years** agreement with **OpenAI** that allows use of all its content.
+
+**$50M per year** for a company rumored to be worth **$500B** in the new round is **peanuts**, but of course **quarterly bonus anxiety** always wins.
+
+*   **I block them:**
+
+**The New York Times** has already put protections in place: in its **robots.txt** it explicitly excluded **GPTBot**, OpenAI’s crawler used to train AI models. Legally, the NYT’s stance is clear: “we do **not authorize** the use of our content for **Generative Search** or **AI training** without an **explicit written agreement**.”
+
+*   **I regulate them:**
+
+· The **IETF** (Internet Engineering Task Force, the standards body that develops core internet protocols) is discussing new standards that could allow sites to **block AI bots and answer engines** (remember robots.txt?), while still allowing access to **traditional search engines** (i.e., only those that naturally **generate clicks**).
+
+It goes without saying that players like **Google**, **Microsoft**, and **OpenAI** are already trying to **narrow** the scope of these rules. The crux is understanding what truly counts as **“legitimate use”**: **search** that drives clicks, or also **direct answers without clicks**?
+
+What about **retail/ecommerce**?
+
+Here, in my view, the game is **different** and much more **open**; and, as often happens, the point is the **speed** with which you move over the next few months (because for those who don’t move now… I don’t like their chances).
+
+Let’s look at an interesting example from **tourism**.
+
+Planning a vacation is never simple: even when we have very clear ideas about destination, timing, and budget, the features offered by booking platforms rarely meet all our needs.
+
+And so, according to a **Boston Consulting Group** survey, we’ve started using **GenAI** on a massive scale: in **2025**, **one in five** travelers in the **West**, and **two in three** in **Asia**, used **ChatGPT** or other **LLMs** to **plan and book** summer vacations.
+
+Impressive but not surprising: GenAI is always available and patient; it lets you pause and resume the conversation whenever you want; it understands your needs and sifts through hundreds of choices, pointing you to the most suitable ones in moments; and, **crucially**, in consumers’ eyes it’s perceived as an **objective guide**, not tied to commercial interests.
+
+Here’s what it takes not to get left out:
+
+As I said earlier, the shift from **search to conversation** has already happened.
+
+So it’s no longer about **being found**, that (almost) doesn’t matter anymore. You need to be **cited**.
+
+And to be cited, you need to have **answers ready in advance** to questions that **haven’t yet been asked**.
+
+Simple, right?
+
+The risk? **Becoming invisible**. Let’s look at an example.
+
+Here’s the exact **prompt** I used to decide which car to buy for my son:
+
+_I’m thinking of buying a car for my son who just got his license. Max budget: €5,000 upfront, €400 monthly payments. He’ll use it mainly in the city but also for weekend trips with friends, so 5 seats and 5 doors. We live in Rome and it has to be allowed in the city center (hybrid is enough). It must have a radio and a screen with Apple CarPlay. What do you recommend?_
+
+Here’s **ChatGPT’s** (summarized) answer:
+
+**Recommended models (5 doors / 5 seats / CarPlay):**
+
+*   **Toyota Yaris Hybrid**: queen of Rome’s traffic, very low real-world consumption; promos with ~€6.5k down and very low VFG instalments (with €5k down you’re well under €400/month). CarPlay standard in current trims.
+
+*   **Renault Clio E-Tech Full Hybrid**: comfortable, lively in the city; frequent promos with ~€5–6k down and “light” instalments + balloon payment. CarPlay included.
+
+*   **Peugeot 208 Hybrid**: pleasant to drive, infotainment with **Wireless CarPlay** on many versions. Offers with ~€5.7k down and very low instalments + balloon payment.
+
+*   **Dacia Sandero Stepway Eco-G (LPG)**: very cheap to run, 5 doors, CarPlay in the right versions; typical offers: ~€4,950 down + 36 low instalments + final balloon.
+
+Here are some **models missing** from those recommended (including the one we eventually chose), and there would be more:
+
+*   **MG3 Hybrid+**
+
+*   **Hyundai i20**
+
+*   **Fiat Grande Panda**
+
+So if the battlefield has shifted, what should a brand do to be part of the **hundreds of millions of relevant conversations**? What should **FIAT** do so that **Grande Panda** is suggested to me? And **Hyundai**?
+
+Rethink how we expose our messages: they must be **interesting, readable, interpretable, and citable** by LLMs.
+
+Rigorously evaluate **if and how much** we’re currently relevant/**cited** in LLM answers, and where we’re missing.
+
+Produce what we didn’t use to write: **answers to key (even future) questions**, FAQs, guides, clear and complete spec sheets.
+
+Organize content with **consistent schemas** (headings, lists, tables, dedicated fields) to make reading and **citability** easier.
+
+Regularly measure **visibility/citations** in LLMs and **adapt** content and structure (the engines evolve continuously).
+
+Show up where they happen (assistants, chats, Q&A): **provide answers, update, enrich**, keep the brand **inside** the dialogues.
+
+This is a new journey that will require lots of experimentation, but it’s a journey that must begin as soon as possible, because learning to develop and present content that speaks with equal clarity to **humans and machines** is the challenge of the coming years, and those who learn first will be **protagonists of the next digital season**.
+
+**Resources:**
+
+*   https://www.ilpost.it/2025/09/14/cambia-seo-ai/ (Il Post article)
+
+*   https://www.bondcap.com/report/pdf/Trends_Artificial_Intelligence.pdf (AI adoption data)
+
+*   https://x.com/carlhendy/status/1938465616442306871 (Cloudflare CEO @ Cannes)
+
+*   https://blog.cloudflare.com/introducing-pay-per-crawl/ (Pay per Crawl model, Cloudflare)
+
+*   https://www.reuters.com/sustainability/boards-policy-regulation/rolling-stone-billboard-owner-penske-sues-google-over-ai-overviews-2025-09-14/ (Penske Media sues Google)
+
+*   https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/ (News Corp – OpenAI deal)
+
+*   https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8 (NYT blocks OpenAI)
+
+*   https://www.businessinsider.com/google-microsoft-openai-fight-standards-limit-ai-access-websites-2025-9 (IETF works on standards to block AI bots)
+
+*   https://www.bcg.com/publications/2025/the-15-trillion-opportunity-in-leisure-travel (BCG travel industry report)
+
+**Bonus Track:** as early as **1999**, the **Cluetrain Manifesto** put it perfectly in its first thesis, **markets are conversations**:
+
+https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto
